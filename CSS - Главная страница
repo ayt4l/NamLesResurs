@@ -1,0 +1,154 @@
+.nav {
+    font-style: Inter;
+}
+img {
+    max-width: 1462px;
+    max-height: 900px;
+}
+body {
+    margin: 0;
+}
+.container {
+    margin-left: 320px;
+    margin-bottom: 18px;
+}
+.header {
+    background-image: url(hat.png);
+    border: 1px solid;
+    border-color: rgb(200, 200, 200);
+}
+.header-line {
+    padding-top: 25px;
+    display: flex;
+    align-items: center;
+}
+.nav-item {
+    color: black;
+    text-decoration: none;
+    font-style: unset;
+    font-size: 20px;
+
+    margin-right: 25px;
+}
+.header-logo {
+margin-right: 185px;
+}
+.main>img {
+    width: 400px;
+    height: 100px;
+    margin-left: 570px;
+    margin-top: 100px;
+}
+.min>p {
+    margin-left: 400px;
+    font-size: larger;
+}
+.lom>img {
+    width: 300px;
+    height: 300px;
+    margin-left: 400px;
+    display: inline-block;
+}
+.lom>p {
+    width: 300px;
+    height: 200px;
+    margin-left: 100px;
+    margin-bottom: 100px;
+    border: 1px solid;
+    border-radius: 25px;
+    text-align: center;
+    margin-right: 100px;
+    display: inline-block;
+    font-size: 22px;
+    margin-top: 30px;
+}
+.lom {
+display: flex;
+}
+.en>p {
+    font-style: unset;
+    margin-left: 620px;
+    margin-top: 100px;
+    font-size: x-large;
+}
+.en>textarea {
+    margin-left: 400px;
+    height: 30px;
+    width: 340px;
+    border-radius: 10px;
+}
+.enm>textarea {
+    margin-left: 400px;
+    height: 170px;
+    width: 700px;
+    border-radius: 10px;
+}
+.end>textarea {
+    height: 40px;
+    width: 300px;
+    margin-left: 800px;
+    display: flex;
+}
+.end>p {
+    border: 1px solid;
+    display: flex;
+}
+
+.lou-line {
+    max-width: 1462px;
+    max-height: 900px;
+}
+
+.mok {
+    
+    margin-left: 1010px;
+    margin-right: 355px;
+    text-align: center;
+    border-radius: 10px;
+}
+.nav-problem {
+    display: flex;
+    flex-direction: row;
+    
+}
+.yep {
+  font-size: 22px;
+  margin-left: 3px;
+  margin-top: 1px;
+}
+.yes {
+    font-size: 22px;
+    margin-left: 3px;
+    margin-top: 1px;
+}
+.first {
+    border: px solid;
+    margin-right: 20px;
+}
+.second {
+    border: px solid;
+    margin-right: 20px;
+}
+.thirt {
+    border: px solid;
+    margin-right: 20px;
+}
+.four {
+    border: px solid;
+    margin-right: 20px;
+}
+.nav-prob {
+    display: flex;
+    flex-direction: row-reverse;
+}
+.image {
+    width: 1462px;
+    height: 900px;
+}
+.mok {
+    border: 1px solid;
+    height: 40px;
+    width: 100px;
+    text-align: center;
+    vertical-align: middle;
+}
