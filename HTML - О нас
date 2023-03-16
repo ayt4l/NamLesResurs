@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About us</title>
+    <link rel="stylesheet" href="static/styles/style.css">
+</head>
+<body>
+    <div class="header">
+        <div class="container">
+             <div class="header-line">
+                <div class="header-logo">
+                    <img src="static/images/логотип 1.png" alt="">
+                </div>
+    
+                <div class="nav">
+                    <a class="nav-item" href="#">Главная</a>
+                    <a class="nav-item" href="#">Оставить заявку</a>
+                    <a class="nav-item" href="#">Карта пожаров</a>
+                    <a class="nav-item" href="static/index2">О нас</a>
+                </div>
+             </div>
+        </div>
+    </div>
+    <div class="we">
+        <img src="static/images/we.png">
+    </div>
+    <div class="who">
+        Мы <div class="help">НамЛесРесурс</div> - обеспечиваем пожарной безопасностью в лесах
+        территории Намского Улуса.
+    </div>
+<div class="mal">
+    <img src="static/images/whoweareeeee.png" alt="">
+</div>
+<div>
+    <img src="static/images/fet.png" alt="">
+</div>
+</body>
+</html>
