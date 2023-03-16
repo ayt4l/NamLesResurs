@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hakaton2023proj</title>
+    <link rel="stylesheet" href="static/styles/style.css">
+</head>
+<body>
+<div class="header">
+    <div class="container">
+         <div class="header-line">
+            <div class="header-logo">
+                <img src="static/images/логотип 1.png" alt="">
+            </div>
+
+            <div class="nav">
+                <a class="nav-item" href="#">Главная</a>
+                <a class="nav-item" href="#">Оставить заявку</a>
+                <a class="nav-item" href="#">Карта пожаров</a>
+                <a class="nav-item" href="static/index2">О нас</a>
+            </div>
+         </div>
+    </div>
+</div>
+<div class="image">
+    <img src="static/images/bg.png" alt="">
+</div>
+<div class="main">
+    <img src="static/images/наша работа - уведомлять жителей о лесных пожаров, противопожарное обустройство лесов, тушим пожары, защищаем и ухаживаем за лесами.png" alt="">
+</div>
+<div class="min">
+    <p>Карта пожаров</p>
+</div>
+<div class="lom">
+    <img src="static/images/Mapsicle Map.png" alt="">
+    <p>Мы будем мониторить леса, и отмечать где находится опасная зона на этой карте, и оповещать жителей населённого пункта который находится близко к очагу возгорания.</p>
+</div>
+<div class="en">
+    <p>Сообщить о возникновении пожара</p>
+<textarea class="yep" id="" cols="30" rows="10"></textarea>
+</div>
+<div class="enm">
+<textarea class="yes" id="" cols="30" rows="10"></textarea>
+</div>
+<div class="mok">
+    <div>
+        <p>
+            <a class="nav-item" href="#">
+            Отправить
+            </a>
+        </p>
+    </div>
+    </div>
+    <div class="lou">
+     <div class="lou-line">
+          <img src="static/images/feets.png">   
+     </div>
+     </div>
+    </div>
+</div>
+    </div>
+    </div>
+</div>   
+</body>
+</html>
